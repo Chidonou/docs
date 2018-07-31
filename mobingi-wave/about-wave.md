@@ -14,7 +14,7 @@ description: Wave的基本功能说明。
 
 ![](../.gitbook/assets/snip20180720_21.png)
 
-* 仪表盘：在贵公司使用的所有的AWS账户的利用状况（合计）可视化。
+* 控制面板：在贵公司使用的所有的AWS账户的利用状况（合计）可视化。
 * 报告：AWS账户和每个标签的利用状况可视化，参考报告。
 * RI：显示Reserved Instance列表和适应状况。
 
@@ -28,7 +28,7 @@ description: Wave的基本功能说明。
 * 使用量多的账户排行榜显示。
 * RI的适应状况。显示RI的覆盖率高的前三名。
 
-## 仪表盘 -Analysis
+## 控制面板 -Analysis
 
 ![](../.gitbook/assets/wave05.png)
 
